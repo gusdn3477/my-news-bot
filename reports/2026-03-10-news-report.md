@@ -4,11 +4,11 @@
 
 ## 🏛️ 정치 (총 100건)
 
-- [전체](https://news.google.com/rss/articles/CBMib0FVX3lxTE91VkstaEtiUzg4NVg4ZWZYNmpwSi1zbWFPdFZGZVVfUUJDZDExZnA5aVdpTl81SWhacnZFWG5YcHc2Vk55NGU2eDUtN0tMSUdqS3ZNZE9Xc29UTURtSEJ2TmdBcjMzcVpnam9Vd0Fydw?oc=5)
-- [[영상] 진보 4당·시민사회, 국회 앞 천막 농성 돌입... "정치개혁 입법 촉구"](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnMTBOYWZ4Uk1rSk9VZndsbnlueWJ0dXNUQng0RzhnWTRQb21YUTRzWEw2Y2szLTJ5QUxUZ1VFdW1acmdrOEtLX0QzZzBnQmc?oc=5)
-- [“기후공약 좋으면 정치 견해 달라도 투표하겠다”](https://news.google.com/rss/articles/CBMickFVX3lxTE5KakM3amFEUjdwYUZPRFdhbGkwVjhQNlpGNkZFcjJfVVRRUmxMU3NIYm45djA1UXVfRi1MSVJocTg0MjJhZEVQV2Rfa0o3WjBrcGNCUDdBMmJqQmF4OUt4bUpoMFcwZGs0RXc5YU1nckNLZw?oc=5)
+- [與 “국힘, 李대통령 싱가포르 발언 왜곡…선동정치 전형”](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TWE9GSDFDOTVGclV3UFRxS1FWSjRfYy1QQlB2RUlKcElORmNaUUxqbElqLXVMSE1GdW9Va0tvN0YwLUFBV0JCRElITXR0X1RC?oc=5)
 - [국힘 "尹 정치 복귀 명백히 반대"…의원 전원 명의 결의문 발표](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vNUQxQXdTalBsS2RrSko5N2d4blBwY0ZETGFjNUdaQWliSkJtbjg1QlVFTDB4Wk5pRlRIZmRNY25nSzZJaTJZQU9qeFBBc1d3X2ZCNDZB?oc=5)
-- [국힘 ‘절윤’ 결의…"尹 정치 복귀 반대·비상계엄 사과"](https://news.google.com/rss/articles/CBMiakFVX3lxTE01LTBLcHo2b2gyY2NKR0E5UERaOEFRd0ZZbElvanZMYzNCcG1XVnFBWHNSektod3lYY0dEVnVCRW01cWNQVGdqSm0xaFFqYlg4V3JuN2ZwbThfN0RyR2MweGJ5NmNsVmZ4OUE?oc=5)
+- [[정치]기름값 급등에...민주 "정부 대응 적절" VS 국민의힘 "정치 쇼"](https://news.google.com/rss/articles/CBMib0FVX3lxTE5qT1RJQnlFZWlkUmRsQWJUbjhwaVdBM0M4OEVpV0hROEhaYVVSd3RFaXBjTjV3Yk1Yc2s1RUtsLUk3OC0zZUhLSHR0TlBsSVVxdHRoVzU2TkRyZlViVzRSOFVZM0RGYUdjV3UtbUEwMA?oc=5)
+- [미러 양국 정상 통화…푸틴 “이란 전쟁 정치·외교적 해법 논의”](https://news.google.com/rss/articles/CBMib0FVX3lxTFB5dkNuVU5MTEJfVkNaa1hnNGxIMG9HZlE5REYtMTFyYi1ZMjFLZ05NNmh6eWMwclA3cUhWQW9WamRqemZvX3pFMWtlM3hXNy12dVlwTFZLaXdoeUkyb1BFZ0hUcjg3NWl0Zy1HV1VwWQ?oc=5)
+- [張 포함 국힘 전원 '절윤' 결의…"尹 정치 복귀 주장 반대"(종합)](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVTG9fWk9LeG13WmQwWGJuamM3S2t3eVdxSzFZblNVeGc3Y0hfYURfb3p1TXVtOXVKMnpIRlY4Q1hKTlFVT3h5cUlNQmtvMzZnRjg2RjBRYzVNLWhwcDlnQw?oc=5)
 
 > *외 95개의 뉴스가 더 있습니다.*
 
@@ -16,11 +16,11 @@
 
 ## 📈 경제 (총 100건)
 
-- [“中 노인정책 전환, 복지 지출 중심에서 ‘실버경제 새 성장축’으로”](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6emppbWJQQ2tkeVdRTG9EWGQ2dzNHSHlWZWRaREhmcVBtOWg4dGlxRG0yc05Cc0M1NXdoV05STWJ3QU5nZ1RyZ0FraEFhRXluRkxiazdmMzJ0UQ?oc=5)
-- [춘천시, 평화경제특구 지정 도전](https://news.google.com/rss/articles/CBMiZEFVX3lxTE10NGMtcFVIVDMteVVRX3hqWDZsNlY3WlJORFNROVJ2UXlXYVhidjVQZm9RUGZGRE12dmdDOE1kNkxLajNDbGdsMFNreVlmbERnN09tZ2t5alg2Ync2Qnpha2FZazE?oc=5)
-- [전쟁 직격타 맞은 이란 국경…“튀르키예 경제도 시험대”](https://news.google.com/rss/articles/CBMiZkFVX3lxTE84NWZXX21OWnJwd3N4ZFNfVFQwQl9Bc2d0QWpYSzZBcmxMVnZsc2VZdjFBUzlTOTdweDNIT2RIZExYQWR0bF9TdlE3a3VVcEIwdHpIaWRTSXkzNzJpR25vZngtS0NyQQ?oc=5)
-- [수소경제 주목되는 기술·제품 86. 더이엔의 나노 전극 촉매 기술](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iMVktcEVVVDd6SEpJNzJaMmJzNm13RUM4bS1XMHQ4NVdxWXJ4OFR0eU40TC1sS25rQk5acml4eXdaNEdaZWNsTkVTNGpVY0ZZWG9QQnpjZkdaVWp4YjJrTVFnMzRQZw?oc=5)
-- [[경제칼럼] 배당을 살려야 지역 경제가 산다](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GcHppeU9Vc0RhWEp1TUt5VndZMGx3U2FpUXRJTzBYRHdWQ0Q1NHhYeXVQVlJvV1U2T1ZtQVFuVjFQMEVaaTJGYlE4dEp0dVE?oc=5)
+- ['중동사태 경제대응' 與TF 발족…에너지·경제 파급효과 점검](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpcDlXXzVlcmVhMjVXRHNOckxEbTJQMndsZ1RSaFZNTHpyT0lxblFwcTRfbU9RU0I0Zzd2d0tpaEVCcjJIRkpWWGxraGhUSW8?oc=5)
+- [경제수석 가장 힘들었던 일? 전두환 삐삐 24시 대기조였다 ⑦](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjenhKbVdaTUZhbFFhNFdydzdEWHJySkJ0TUlzeE5XcjBXcFFnUG5rakdoSWl6WXItNHpwNEhkMTZCakEzN1pVUDZGS2xzS05vd2I0N2RR?oc=5)
+- [[美 이란 공격] 글로벌 경제·안보 충격…호르무즈 막히면 '패닉' 온다](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ1FpYTRTejFBajBrRV9paWZreXdScXhMeDYwTDEycjNkaEctcTRqTV96YnBob002UEw0VGRvLWg0TFBWLU12dlVFY21wcFloVThYUlNKNHVocVREbHNydlE2VFRaNWFhbWJTWEluN3RsTkJLNXhnMndUU2JvOUk2eFNGRm5jZTk3MEhtX2NXTUl3dTN0bC1LbG5hWGR3MWpreC1wTmhIZ05sZ243aHQ5dG5RN3lfZEVfbWk1aVc1Q29BeUFCWkhxWFFzMmZwR19mTlBNdQ?oc=5)
+- [[기고] 경제특구라는 이름의 예외, 헌법적 가치마저 ‘면제’될 수 있는가](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IR3ZVRjVaM25qZXZUZWFicWR3V185b2k0bUhkRmlYMWZtenFBMklYOG85b3M5LTRVNmQxN0NVd21JTkhDNTdDcTlRQjJIWUk?oc=5)
+- [與, '중동사태 경제대응' TF 발족…에너지·경제 파급효과 점검](https://news.google.com/rss/articles/CBMic0FVX3lxTE5rZWo4R3pqbUFRU2dULW9xWnFiUEVaaHFwcWVaOGRoSnFoTHVNNWRrOExpeUljeGJqRW1RZzd1ZkNVa1doSEF4Y0R3UUtzb25jYUxlSEZPN3FfUlRjWS01bGxLaHl6Y2hkSXczUUhTaTdSdUk?oc=5)
 
 > *외 95개의 뉴스가 더 있습니다.*
 
@@ -28,11 +28,11 @@
 
 ## 👥 사회 (총 100건)
 
-- [강원FC-도 사회복지협의회, 시즌권 나눔 협약](https://news.google.com/rss/articles/CBMiekFVX3lxTE10WG9aNGRPcjREd2FFejU3c0FjUmt6REk5SDlQak1qTkZQeGhxRGplVnUybV9UZ20xQ3JxaEROTUtKbEJnSGVXU28zMm5JRlBubmVHd1F2N21BR21VVU56MHE5UW5IUURCemVKQ3RtRENINHl5TmFpU0tR?oc=5)
+- [사회](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NYzNpc2Y0Rkpxc3ZFVW9DWEFGU2NocWJfOGl2VTg3aFNrNHM3endMVTZzRzU3WFRLUUItWVo0ZXNnYmpkajJEQTJR?oc=5)
+- [고령화 사회 ‘디지털 복지’ 부담에 미래 어두운 통신사들, AI에 사활 건다](https://news.google.com/rss/articles/CBMigwFBVV95cUxOTzd4YXpnbE9lQVBhaXZOS1ctd2dLSkc5c0RHR3hMYlVIeVNGMUZDeHpuUEl5UTdLTVI1YTJhTWd0WlpqSFBSV2wzWEZsSFF0eE5NYUtBUzZ2SXpHbmU4alhYNHYwbElhbVliMUdObjNZTmpCVGY4Tm9nYUtoMGpOZlU0NNIBlwFBVV95cUxOTk91OGdEdXRtZ0xBcnRua3d1dUMtRjRaR3JTSmpsMkxGN0UybllWYkJUaGpMb1pZbWFjYzRnVXBLMU9KRjk4X1FubmxjdmFyMGlVbkVDaVdaYmpBUzlXcHllMXBnT1NXTzVreHhhSVZPcjA0bkhacHJ4WWo0XzZyVWl2TjJTeGtWWXRXcEdEbXlNdW9jZTVV?oc=5)
+- [군 법무실장의 강등에 부쳐 [똑똑! 한국사회]](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zWjdDcTl0OVRVTG0ydjJuZTNQSTM5SVBYR1FGaE1lTWxBUFV4aTVzdmlyWk1ZMDI4WUI2bFFlbGhpT3ZTbW9XZ0VyQ0R5YlRnQnowTWpFTFhtWWN3VDE5TFFSR053QQ?oc=5)
 - [부산광역시의사회 창립 80주년…'하나 되는' 80년](https://news.google.com/rss/articles/CBMickFVX3lxTE5GTnlIVEx0dXBZRGlZREt2d1gya09aRDgyVlhTYVVOVE9NUHNybExyMnRBLXBrRkdkX19VMXcyZloxbkR3UGxaOFpVQVIwWGt6bTVMNUwxNm9FRmNJYUhjdVdnQ3JBODMxanFUaURLZWpiQQ?oc=5)
-- [강원특별자치도한의사회, “도의사회 직역 이기주의 중단·어르신 건강권, 의료선택권 보장” 촉구](https://news.google.com/rss/articles/CBMiT0FVX3lxTE55ZzliVUVzb0FOZkF4S0JobVVxeW54VjhQR0J4UXpBWmFMWjJHUzRINzFTSV83N3VUWTlCRVJBRTlqdUVocGVRemlQMXEwNlE?oc=5)
-- [이욱태 수소조합 이사장, 공신연 부산총괄본부장 취임...“갈등 사회 중심 역할”](https://news.google.com/rss/articles/CBMicEFVX3lxTE12bzhfR0F1N2I1dDVhZmx5SVJ1SGdIQ2N4UDZDS2dXU2V6d1Y4S2QtYVNIYnlTdFBKbkU2Yk0yTUxzaGVJTFQwYUF5QmdRd0tnQlNzVUNyVFkzd2ltRTZ6MW93OGdCR2dvYlJhUWhabEnSAXBBVV95cUxNdm84X0dBdTdiNXQ1YWZseUlSdUhnSENjeFA2Q0tnV1NlendWOEtkLWFTSGJ5U3RQSm5FNmJNMk1Mc2hlSUxUMGFBeUJnUXdLZ0JTc1VDclRZM3dpbUU2ejFvdzhnQkdnb2JSYVFoWmxJ?oc=5)
-- [[朝鮮칼럼] AI·로봇 혁명과 일자리 소멸… 사회 시스템 재설계를](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMXVmbXJBbmQ0V0Q4VGZrR3hHX2VfTkh3WVowS0RUX01rTzlxWW9mTUtkTTRDZTEzazdHM1lyV2tmb2hJMVY2QnpDSDV5Ny1ScmJOcGgxOTlNT3FZdXI5UUFBaDBxNHprazJDVXppUjZxWXdLc2hrdEZkSzFEMEdZcFl5M2N6LWw3ZVFv0gGfAUFVX3lxTE04anlvOWJ2Sll5ekItekw4Wm9vUmVqQjZsUnZMOEM0Szg5LWY3clREdkdOeEdsUmJtQ2pwUGNXMHlVLXh2ei1RTnNDN0JabVUydHdyWVlhb2F3NkF5WTdkTkozRnZna29UZDVESXpHSldfRko1VHhZLWs0S0ZGX1hBVjBURVpQY2ZudVR5bE53QlJPUFBTMGh2TmlnN1JYUQ?oc=5)
+- [[사회경제 주요일정] 대미투자특별법 반대 외](https://news.google.com/rss/articles/CBMic0FVX3lxTE1rQnFDMm8yYTBHLVRRRVMwc2d3YWlIYWJWN2RGNkZnbjBNWGJBUVAwZG8tcHpvUGtHcXBOOVdiTjAyODBJYW11d1VROTJ4cXVTXy1BSndiVlRNS3prN3I0VGNJX0RWbDJrT0dFOE4wLTFTUW_SAXdBVV95cUxNb0xiX1NDVWt4dmdmX2hyZnZMYkVhd2VDclVaSW4wcDdLaW9jNkRMVG5jX2llcGpBTW44S0E5VGZEaU84ZF82RzZ0X3hOeHZzZWw2bkRMYjZOTi1SZjR3VzJuYmREN3UyVF9UUTh5QlBJMWphdy0zZw?oc=5)
 
 > *외 95개의 뉴스가 더 있습니다.*
 
@@ -40,11 +40,11 @@
 
 ## 🎨 문화 (총 100건)
 
-- [최홍식, 영주시의원 가흥동 선거구 예비후보 등록… “선비문화 정책 새판 짜겠다”](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wYTc3SGpJNm1KZWR1Vmpia0RFbGtJclk3WmF3ejZzUlpDZUEteDlSd2xtWU1CQXdTTXJQT1Z4YkNwSnZsYzFPbER6azY5b05sOWFnZXNGV3NYRml2bUdnN2FMNFQ4QQ?oc=5)
-- [19~20세 청년이라면 '청년 문화예술패스'로 문화생활 하세요](https://news.google.com/rss/articles/CBMiakFVX3lxTE5GYi0tcEtxOFdSNms0WFJiVEJ1UV8zdkF0VjVSSVJyYlpmTGxYcS1LeFVQTTR3MjJVa2tlOXg2VFl5eTNFVk1oWkNXQWZGQjFpREhTeWd0TkEzaHNYdTd6QVd2NUMwWkRNN2c?oc=5)
-- [건양대 강란숙 교수, 지역 문화공간 “선샤인랜드“ 활용한 AI 한국어 학습 장치 특허 출원](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wQ0ZzTHpVU09HbExxMm1LMzBIc0owRWR6UWcyTFhZU1Y4SUNUa21ONHUzdDFwOGgzY3NZMEJVM2VUZUNVQS0wT3ZaU2pqS3NrWDQ0QVJuZ3J5WUk3anFLdzJoX2RaU1E?oc=5)
-- [경남차문화예술원 아이좋아 통장사업 누적 후원금 2100만 원](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HY2dpVkhKNWd1eUpsTmVPRWtmeHlDUWIyRE1hWUp5Z2hrWGgzeklSMko4X2hudFMxNXEtbVhSaUJJV1hhdE9rVzRSYlZROVU?oc=5)
-- [경기장애인근로자지원센터, 장애근로인 대상 문화·정서지원 프로그램 운영](https://news.google.com/rss/articles/CBMickFVX3lxTE9RYUExd0RCZ1RhdVQzTV9qd0dhdVNjWHpKdEVJQ25yOFdrbVhGTDQxd0pXVk52V0d3UE5IYVRpbXQ0MEozNDFwWUtzZ2oxQkFJQUJxU3ZEZ0VFb1BULUlKdDFNQTNXMFdQc0hkbDhzR2FKZ9IBckFVX3lxTE9RYUExd0RCZ1RhdVQzTV9qd0dhdVNjWHpKdEVJQ25yOFdrbVhGTDQxd0pXVk52V0d3UE5IYVRpbXQ0MEozNDFwWUtzZ2oxQkFJQUJxU3ZEZ0VFb1BULUlKdDFNQTNXMFdQc0hkbDhzR2FKZw?oc=5)
+- [문화](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpVFV6WDZKRVhWNGVXNVFfT0FPM3oyX2tjWEdfdFU5WWhOZ3NXbk5wLXJjUi1fZ1FwUE1vUDhLLW0zc3ZISVpXTnZn?oc=5)
+- ["K컬처 미래를 그리다"…'문화소통포럼 CCF 2026'](https://news.google.com/rss/articles/CBMiakFVX3lxTE11R2NkR1RlX2tsRzd5Q2d5a2hhb2ZZemllVTY4X0JfVnRKWEx3TXpSdFB3MzZOeGNNQ2Q3OTc5RmxjLXRlc0g5Y3hRWlByWlRGd2VCZEFrcGNnUEZnc1U0ZFB3RU82OWg5blE?oc=5)
+- ["말 보러와요" ... 천오백년 전 국보급 유물로 나들이](https://news.google.com/rss/articles/CBMia0FVX3lxTFBpdVVXYWRIVm9HazcxczlzVmpCVHdNVzdmQXpaZ3BKcXo4YjlQOFBFcUxMbVFVLUVPTGVsU29YeXNxUk9qSmpibmYxWXNxeUJzaF81amFQRkx0SXAxdEpsQ085OFdYSXlTd184?oc=5)
+- [충남 문화유산, 국가 보물 지정](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yUlBzS2k5TXh4WWVpbTBBUW5GX0kzanBQVWVaUm9Ic2tKUmd3VHpfOU5WanZGTFh2VWxXOF9wYk54Z2JrRVktOUFhTDNUTDhsWnE4T2JtMERpZHdaNXBN?oc=5)
+- [[르포]'막창'·'무더위'는 잊어라…대구엔 '문화와 힐링'이 있었다](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsT2NUdGZYb1BPNDVHS1EydW8xa2l6dmtLWkl1MWU0U0FfQXpZajJIWGt1U0hwM3JUem90Z1ZGZDhEYnVmNnNhMV95SXVseG8?oc=5)
 
 > *외 95개의 뉴스가 더 있습니다.*
 
@@ -52,11 +52,11 @@
 
 ## 📍 경기도 (총 100건)
 
-- [경기도, 중동위기 대응 특별경영자금 600억 신설](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nVm4zVUZNUVRYNGlsbHdQeFdNZlliaGtZVFpZX09ZTzJ4aDVNRWwzSmNDaTNwNUFOOE9hOGpWNzRMY3JxdE5lX1dDX0lUcjg?oc=5)
-- [경기도, 중동 위기 대응 특별경영자금 600억 신설](https://news.google.com/rss/articles/CBMiakFVX3lxTE1pc1lDUXp4d3NIcTZZU1pQNXVIN04weGxuRDJQbXJNMkExR0w4QXREYlhnemNlYUZYc291WTBhbDZOWGg2emZwZDRtOUVaU3QzYk5FejhvaGRTUm9MT1RCaUFqRzlPQ0k4Wnc?oc=5)
-- [경기도교육감 예비후보, 청소년·교직원 맞춤형 정책 공약 격돌](https://news.google.com/rss/articles/CBMib0FVX3lxTE9Rb24wWlBTUlJHMW5weElRQmtPa3NsR1VkcWJid2I0OG9WZDA3OUFFX0V4clV2TkxON2RSM0hDY2JWMzQybThwZ2duSFVLQkE4TVc3YlVXZ25lbTlfdjB4V2FXdFRFVklNa1JXVk4zSQ?oc=5)
-- [경기도교육청·경기교총 ‘2025 교섭·협의 합의서’ 체결](https://news.google.com/rss/articles/CBMibEFVX3lxTE9UZ25ZZEZyblFqcXlBY0Z1TnUzcFZkeUdWQTNZSFp5SnR3WWVfN2hkdHZEOTIwWWFuUktPRXBCTDI0Yk5GX0RUMTg4ZHMwSTliVk42MXk4bTJPUDBwUHZRRDRNQXVxTTNHS1NFcQ?oc=5)
-- [“경기도 대도시 출신은 제한”… 지역의사제 지원자격 ‘황당’](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuQmRnc056ZjRmcm12MHFwaEVJVVBVMDMxRDdjdkZaM3FSUERCdzFNVHp2a25LRVg3aGFFbWk2MFZROHF3dkFPR0I1X0JXZTZyQlE?oc=5)
+- [경기도 더드림 재생사업 공모 앞두고 맞춤형 컨설팅 지원](https://news.google.com/rss/articles/CBMibEFVX3lxTE1hUGE5SjBVMGowdmhRRjM2MDVoUkZmZ0ZxRGcwVExFUjZTbXRGbFdFYzhKb2U0T0VodFg4dkRyOTZrX1JvQjlsWEEycXFkbTI0ek9FOHVZMTNydTd6dnZFNVc0QkN2eG5hcjNDYg?oc=5)
+- [이제 렌터카도 탄소 감축…경기도, 수익형차까지 ‘친환경 전환’ 추진](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZSlcwRzkzdkFoUmxpTW0xVGtoVGRlblJhZ29aWjFmMWpmZ3JDbHdEQ3hwdjFSNG5wc0dzR0pRM2hjQVBJQkUtNzJ6SGNoazV2TEZBTGdsWXdUbWs?oc=5)
+- [경기도, '경기 청년창업 글로벌 프론티어' 20개사 모집…해외 전시회 참가 지원](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xblpoNEtPenhaQ1BYWG4zbkVGb3R4QmV4WkZMM0w3YWFSZDAtQXdTbTFrd3BKdzNOZjBhQ1JQTkVkbS1GNDFWVVlWZlRaV2RRVEFQMmd0bDh2aVRic2RBdWpub0F0Rk0?oc=5)
+- [[오늘의 주요일정] 경기(10일, 화)](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PNDBIalJrOWFmTFRtWlFfSWRVd0JrOGI5NWM4M2NoMHdSWUo1VlZHc2xwd20xMXItYTg0d0RWdE15elRYOC1CR1dvV3l0djlaanRrSGN3?oc=5)
+- [경기도 '더드림 재생사업' 공모 앞두고 맞춤형 컨설팅](https://news.google.com/rss/articles/CBMiakFVX3lxTE1uVkp3el9qSTlpeDJZWWdyallLV2hvOUNDSFV6ak82eGwya2JLOE1EOGNTZmYwSUFFQXF1SFdKX1F4LWdBcVU1aTI3T1ZMSlZ0VVlzNjZPVGZRandwaHYzdWsxRjk0TkNwbXc?oc=5)
 
 > *외 95개의 뉴스가 더 있습니다.*
 
@@ -64,11 +64,11 @@
 
 ## 🏙️ 성남시 (총 100건)
 
-- [성남시·분당차병원, 한부모가정 부모 건강검진 지원](https://news.google.com/rss/articles/CBMidEFVX3lxTE03TVlCaTdvQTZsQm95VTFIWHdMd1hLVktKaDhCT3c2VU93WVRoTC1BOGFhX0dsXzJuM3Z1TlctSk9jV3hueVJHcmxRaHZobTRIZVNuZEo4OExCbm1JREVoRXk3NExmWE5DLUlzTklneGhoZ0hF0gF0QVVfeXFMTTdNWUJpN29BNmxCb3lVMUhYd0x3WEtWS0poOEJPdzZVT3dZVGhMLUE4YWFfR2xfMm4zdnVOVy1KT2NXeG55UkdybFFodmhtNEhlU25kSjg4TEJubUlERWhFeTc0TGZYTkMtSXNOSWd4aGhnSEU?oc=5)
-- [성남시, 민주당 조례 따라 공개했는데 성남시장 등 고발⋯“정치 공세” 반박](https://news.google.com/rss/articles/CBMicEFVX3lxTE5nWkc1Rm5KdVJjUTNfZ2RKam50NUNxMG0tWndLVWxvcm9sdFctcWhqNXRKTjIxVG1sejBKbW5vRmRzRzlLODl4SjBpZjJkc1pIWWRmT3kxUlRVdVNDbG5Wa3A0ZkhibFE0czh3THFjakw?oc=5)
-- [성남시, 분당차병원과 한부모가정 건강검진 지원 협약](https://news.google.com/rss/articles/CBMia0FVX3lxTE5kZVBYV2tLSFMxVnFoMEpsY3pJazFTOTY0VzFaZTk1UUtjMWUyM09fNmNBd0JfeE8tSmQyQkFUdnVMbVM2MGE1TlFjTXllVFZYVEZGTXlkeEdFTUp5bW5uWWlEZGFMRzJWOFFj0gFvQVVfeXFMTldjd2lHaEM1TkMxMWlPMG5lUG1vOTlVMkV0Zkxoa3VnLTZaZTcyVlhLNlhULTRqSWdLa21UWHg2eWRWWXUtQjJHVGRuMkRCSDNuZ2diVHU3Rlgyb3NkanZEeE81bDRxX1l1b3pMaVFB?oc=5)
-- [김병욱 성남시장 예비후보, 성남시 교통 현안 해결 광폭 행보](https://news.google.com/rss/articles/CBMidEFVX3lxTFBocXplanhTU1BpRElJU1FKcXRITENVekt3TTE1SUJwNVB5bzZTZWVGakdWb09ELWhMQWJ2OHRxWmFLMXh6TUZOd2dZM2RRSHlnZXM5ZHdUUVF0VzZuX2Nic0xRWUhDdDQzcVhURUhZaWd1VUVY?oc=5)
-- [성남시, 분당차병원과 협약](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wdDd6dm1pS1NheUJLQ2VLN3Naa1BZOFBKVzNHYU91cjZvRkI3NnZwWXgwZ3FJOGNIX2JlVXh5UjJnYTVuTFdlTzd1YjM2RV9HRU41bXVOU1pjTkxyVEZnZHI5ZDI?oc=5)
+- [성남시, 상반기 해외전시회 개별참가 기업에 최대 500만원 지원](https://news.google.com/rss/articles/CBMidEFVX3lxTE1sRDV5UFNsM01yOWd1UHNwb2NDblZ5MDRuRVlrQmF2eFlrOHRRRW16VWk0NTZfT2xKanBTNXc2WkJQRzNDT19OTE1KblBweU1mSmotS3V2SnloUDhEU1VBVzROWnM1WkQ0TG8zd3pfZG9JSEl2?oc=5)
+- [성남시, 중소기업 해외전시회 참가비 최대 500만 원 지원](https://news.google.com/rss/articles/CBMiVkFVX3lxTE00SmpUY3AxNXBtaHdUWnVjUFFJS2dOYXFrMkliV2puNWhneG5lNWFpR0ZPMmpnajNmN3hmSU42RHFLdnl3RVpZTFdFdjhWR1Q1YjFFN3ln?oc=5)
+- [성남시, 민주당 조례 따라 공개했는데 성남시장 등 고발⋯“정치 공세” 반박](https://news.google.com/rss/articles/CBMiS0FVX3lxTFByRGtkLTBvWjVwOU1zU3pjblFIYXlZZE5vaDM4N2tMVjNqOXpmeUZ3aWRhX2dDX3huUjVpOHZ5LUpsajNHWDROZTIzOA?oc=5)
+- [성남시 미혼 만남 행사 ‘솔로몬의 선택’ 인기…경쟁률 8대1](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RcDNXR3B1SnlvN0hVSURqRmVXS1pXSGp6WjF1MXNjdHZvLUZYeDdqeGVMaEZUVG1EQXg2Wnc5OGU3dm9fVjFWcC02VlozY2R6ZGFZS1FvZGU1QQ?oc=5)
+- [[기자의 시선] 성남시의회 의장선거 ‘부정 의혹’ 재판](https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ob0VLZkE4TTBPWUlRVTdXUGtzLXN6bk5Wel9uWmhfZUlzTV84dVdkNDJxZGVWX1ltTjZIMHI3c19IMHpwU3djZmZrX2dONjFrZzJiNklvb1hBY1gxYkd0bGppWkpIcXJpbDhScWRNaF_SAXBBVV95cUxOTm9FS2ZBOE0wT1lJUVU3V1Brcy1zem5OVnpfblpoX2VJc01fOHVXZDQycWRlVl9ZbU42SDByN3NfSDB6cFN3Y2Zma19nTjYxa2cyYjZJb29YQWNYMWJHdGxqaVpKSHFyaWw4UnFkTWhf?oc=5)
 
 > *외 95개의 뉴스가 더 있습니다.*
 
@@ -78,8 +78,8 @@
 
 - [[6·3지선 여론조사] 신상진 vs 김병욱, 6·3지방선거 성남시장 후보 지지도 동률](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBraE9JWFVDTnJPb3B6cEtKeDhjV1ZwSjV0MFc4TThDNDg3QndpQndxcktoSkJTcjZTVGRaRlVWZFBWR05hOGc3MFozQW53X1hra0xRSU81QzBSVEdoLWc?oc=5)
 - [성남진보당 "공공임대 6,300호 조성"…주거정책 변화 촉구](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TejZiQkRuOXNxeVlrOVlSeGpzd2NtODhLNnQ4SzV0bHdKRnhBdnFpbHY4QzI5VjZzeHdxRmJqSkhoN2tjZXpTRFc3alkyTkU0UXFYd1FLNGtPbThPdmhRaC1NR2ZWX2l6?oc=5)
-- [인터넷 최저가보다 싸네? 국내 첫 창고형 약국 ‘메가팩토리’… 약국계 코스트코, 성남·서울에 있다](https://news.google.com/rss/articles/CBMibEFVX3lxTE80WF83OE9ZVXhWbldON1k3THExZXhrTExSalBhWGY5NUt1T1N6bWhvTmFqT1Y4MENlTVlVTGdwS0lyUFhGYUxKWUtoNFhkOXZDNVMybTdMVmpxd1Z5SFRfaDFBMmlFZlVWM1hKTQ?oc=5)
 - [성남 진보당, ‘원도심 주거문제 외면 성남시 규탄 집회’ 개최](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rbDlRaVZwMlk3Q0U3c1FjV0RvaUNVOXdEb0YwSC11V1lLcGcyZUhELXhiN1J6QzRkNnVKbmFCdjNhYW81a3J6RVdNWQ?oc=5)
+- [인터넷 최저가보다 싸네? 국내 첫 창고형 약국 ‘메가팩토리’… 약국계 코스트코, 성남·서울에 있다](https://news.google.com/rss/articles/CBMibEFVX3lxTE80WF83OE9ZVXhWbldON1k3THExZXhrTExSalBhWGY5NUt1T1N6bWhvTmFqT1Y4MENlTVlVTGdwS0lyUFhGYUxKWUtoNFhkOXZDNVMybTdMVmpxd1Z5SFRfaDFBMmlFZlVWM1hKTQ?oc=5)
 
 ---
 
