@@ -46,7 +46,7 @@ def summarize_with_gemini(title, text, max_retries=3):
     for attempt in range(max_retries):
         try:
             response = client.models.generate_content(
-                model='gemini-2.5-flash',
+                model='gemini-3.1-pro-preview',
                 contents=prompt,
             )
             return response.text.strip()
@@ -76,7 +76,7 @@ def fetch_news(topic_name, url, limit=3):
         summary = ""
         if client:
             summary = summarize_with_gemini(clean_title, article_text)
-            time.sleep(10) # 무료 API Rate Limit(1분 15회) 방지를 위해 아주 넉넉한 10초 쿨타임
+            time.sleep(32) # 무료 API Rate Limit(1분 2회) 방지를 위해 아주 넉넉한 32초 쿨타임
             
         news_items.append({
             "title": clean_title,
