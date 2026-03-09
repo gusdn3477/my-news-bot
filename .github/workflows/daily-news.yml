@@ -28,6 +28,8 @@ jobs:
         pip install -r requirements.txt
 
     - name: 🚀 뉴스 스크립트 실행
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       run: python fetch_news.py
 
     - name: 📅 오늘 날짜 환경변수 설정
