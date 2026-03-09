@@ -29,30 +29,36 @@ def get_article_text(url):
     except Exception:
         return ""
 
-def summarize_with_gemini(title, text):
-    """Gemini API를 사용하여 구조화된 상세 요약 생성"""
+def summarize_with_gemini(title, text, max_retries=3):
+    """Gemini API를 사용하여 구조화된 상세 요약 생성 (429 에러 시 자동 재시도 포함)"""
     if not client:
         return ""
     
-    try:
-        prompt = f"""다음 IT/경제 기사 내용을 바탕으로 실무자에게 유용한 인사이트가 담긴 상세한 요약을 작성해주세요.
-        
-        [요약 규칙]
-        1. '📌 핵심 요약': 전체 내용을 1~2줄로 명확하게 요약해주세요.
-        2. '💡 주요 포인트': 본문의 중요한 내용이나 개발자가 알아야 할 점을 3가지 이하의 글머리 기호(-)로 상세히 정리해주세요.
-        
-        제목: {title}
-        내용: {text}"""
+    prompt = f"""다음 IT/경제 기사 내용을 바탕으로 실무자에게 유용한 인사이트가 담긴 상세한 요약을 작성해주세요.
+    
+    [요약 규칙]
+    1. '📌 핵심 요약': 전체 내용을 1~2줄로 명확하게 요약해주세요.
+    2. '💡 주요 포인트': 본문의 중요한 내용이나 개발자가 알아야 할 점을 3가지 이하의 글머리 기호(-)로 상세히 정리해주세요.
+    
+    제목: {title}
+    내용: {text}"""
+    
+    for attempt in range(max_retries):
+        try:
+            response = client.models.generate_content(
+                model='gemini-2.5-flash',
+                contents=prompt,
+            )
+            return response.text.strip()
+        except Exception as e:
+            error_msg = str(e).replace('\n', ' ')
+            if '429' in error_msg and attempt < max_retries - 1:
+                print(f"⚠️ 429 에러 감지. 20초 대기 후 재시도 합니다... ({attempt + 1}/{max_retries})")
+                time.sleep(20) # 429 에러 시 20초간 길게 대기 후 재시도
+                continue
             
-        response = client.models.generate_content(
-            model='gemini-2.5-flash',
-            contents=prompt,
-        )
-        return response.text.strip()
-    except Exception as e:
-        error_msg = str(e).replace('\n', ' ')
-        print(f"Gemini API 오류: {error_msg}")
-        return f"> ⚠️ 요약을 생성하지 못했습니다. (사유: {error_msg})"
+            print(f"Gemini API 오류: {error_msg}")
+            return f"> ⚠️ 요약을 생성하지 못했습니다. (사유: {error_msg})"
 
 def fetch_news(topic_name, url, limit=3):
     """최대 limit 갯수만큼 뉴스를 가져와 요약 진행"""
