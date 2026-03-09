@@ -70,7 +70,7 @@ def fetch_news(topic_name, url, limit=3):
         summary = ""
         if client:
             summary = summarize_with_gemini(clean_title, article_text)
-            time.sleep(6) # 무료 API Rate Limit(1분 15회) 방지를 위한 넉넉한 쿨타임
+            time.sleep(10) # 무료 API Rate Limit(1분 15회) 방지를 위해 아주 넉넉한 10초 쿨타임
             
         news_items.append({
             "title": clean_title,
