@@ -50,8 +50,9 @@ def summarize_with_gemini(title, text):
         )
         return response.text.strip()
     except Exception as e:
-        print(f"Gemini API 오류: {e}")
-        return "> ⚠️ 요약을 생성하지 못했습니다."
+        error_msg = str(e).replace('\n', ' ')
+        print(f"Gemini API 오류: {error_msg}")
+        return f"> ⚠️ 요약을 생성하지 못했습니다. (사유: {error_msg})"
 
 def fetch_news(topic_name, url, limit=3):
     """최대 limit 갯수만큼 뉴스를 가져와 요약 진행"""
@@ -69,7 +70,7 @@ def fetch_news(topic_name, url, limit=3):
         summary = ""
         if client:
             summary = summarize_with_gemini(clean_title, article_text)
-            time.sleep(4) # 무료 티어 1분당 15회 제한 방지를 위해 4초 대기
+            time.sleep(6) # 무료 API Rate Limit(1분 15회) 방지를 위한 넉넉한 쿨타임
             
         news_items.append({
             "title": clean_title,
