@@ -50,18 +50,12 @@ def analyze_all_news(news_list):
 출력 형식은 마크다운으로 깔끔하게 정리해 주세요.
 """
         
-        # 우선 3.0 Pro 모델로 시도하고, 지원하지 않아 오류 발생 시 2.5 Pro로 안전하게 대체(Fallback)
-        try:
-            response = client.models.generate_content(
-                model='gemini-3.0-pro',
-                contents=prompt,
-            )
-        except Exception as e:
-            print(f"⚠️ gemini-3.0-pro 호출 실패 ({e}). gemini-2.5-pro 모델로 대체하여 분석합니다.")
-            response = client.models.generate_content(
-                model='gemini-2.5-pro',
-                contents=prompt,
-            )
+        # 무료 토큰(Free Tier)의 엄격한 제한(429 Quota Exceeded)으로 인해, 
+        # 하루 1,500회까지 넉넉하게 사용 가능한 gemini-2.5-flash 모델 사용
+        response = client.models.generate_content(
+            model='gemini-2.5-flash',
+            contents=prompt,
+        )
         return response.text.strip()
     except Exception as e:
         return f"분석 중 오류 발생: {e}"
