@@ -50,11 +50,18 @@ def analyze_all_news(news_list):
 출력 형식은 마크다운으로 깔끔하게 정리해 주세요.
 """
         
-        # 3.1 Pro는 구글 AI 스튜디오 API 버전 등의 문제로 404가 발생했으므로, 가장 안정적이고 뛰어난 2.5 Pro 사용
-        response = client.models.generate_content(
-            model='gemini-2.5-pro',
-            contents=prompt,
-        )
+        # 우선 3.0 Pro 모델로 시도하고, 지원하지 않아 오류 발생 시 2.5 Pro로 안전하게 대체(Fallback)
+        try:
+            response = client.models.generate_content(
+                model='gemini-3.0-pro',
+                contents=prompt,
+            )
+        except Exception as e:
+            print(f"⚠️ gemini-3.0-pro 호출 실패 ({e}). gemini-2.5-pro 모델로 대체하여 분석합니다.")
+            response = client.models.generate_content(
+                model='gemini-2.5-pro',
+                contents=prompt,
+            )
         return response.text.strip()
     except Exception as e:
         return f"분석 중 오류 발생: {e}"
