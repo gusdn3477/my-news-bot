@@ -30,7 +30,7 @@ def fetch_news(url, limit=3):
     return news_items, total_count
 
 def analyze_all_news(news_list):
-    """Gemini Pro API를 사용하여 수집된 모든 뉴스의 의미를 심층 분석하여 마크다운 리포트 생성"""
+    """Gemini Flash API를 사용하여 수집된 모든 뉴스의 의미를 심층 분석하여 마크다운 리포트 생성"""
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         return "⚠️ GEMINI_API_KEY가 설정되지 않아 분석할 수 없습니다."
@@ -47,7 +47,7 @@ def analyze_all_news(news_list):
 위 뉴스 기사들을 종합적으로 분석하여, 단순히 사실이나 기사 제목을 나열하는 것을 넘어서 **"현재 미국의 가장 중요한 흐름과 그것이 앞으로 미칠 파장(의미)"**에 집중해 심층 리포트를 작성해 주세요.
 단순히 하단에 링크 목록을 따로 나열하지 말고, 분석 내용의 문맥 속에 자연스럽게 관련 기사 내용을 녹여내며 하이퍼링크 형식으로 출처를 달아주세요.
 독자가 이 리포트 하나만 읽고도 지금 미국의 큰 그림을 이해할 수 있도록 통찰력 있고 전문적인 어조(한국어)로 작성해 주세요.
-출력 형식은 마크다운으로 깔끔하게 정리해 주세요.
+읽기 쉽도록 문단 간격을 적절히 띄우고(줄바꿈), 핵심 내용은 강조(볼드체 등)하여 마크다운으로 깔끔하게 정리해 주세요.
 """
         
         # 무료 토큰(Free Tier)의 엄격한 제한(429 Quota Exceeded)으로 인해, 
@@ -68,7 +68,7 @@ def generate_markdown():
     time_str = now.strftime("%H:00")
     
     md_content = f"# 🗞️ {date_str} {time_str} 미국 실시간 심층 의미 분석 리포트\n\n"
-    md_content += f"> {time_str} 기준 최근 1시간 동안의 미국 주요 뉴스를 바탕으로, 겉으로 드러난 현상 너머의 핵심적인 흐름과 의미를 Gemini Pro 모델이 애널리스트의 관점에서 심층 평가했습니다.\n\n"
+    md_content += f"> {time_str} 기준 최근 1시간 동안의 미국 주요 뉴스를 바탕으로, 겉으로 드러난 현상 너머의 핵심적인 흐름과 의미를 Gemini Flash 모델이 애널리스트의 관점에서 심층 평가했습니다.\n\n"
     
     all_news_for_analysis = []
     
@@ -84,8 +84,8 @@ def generate_markdown():
                     "link": item['link']
                 })
             
-    # 수집된 뉴스를 한 번에 Pro 모델로 분석하여 전체 내용을 구성
-    print("🧠 Gemini Pro 모델로 심층 의미 평가 진행 중...")
+    # 수집된 뉴스를 한 번에 Flash 모델로 분석하여 전체 내용을 구성
+    print("🧠 Gemini Flash 모델로 심층 의미 평가 진행 중...")
     if all_news_for_analysis:
         analysis_result = analyze_all_news(all_news_for_analysis)
         md_content += f"{analysis_result}\n\n"
