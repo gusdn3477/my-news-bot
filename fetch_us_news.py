@@ -30,7 +30,7 @@ def fetch_news(url, limit=3):
     return news_items, total_count
 
 def analyze_all_news(news_list):
-    """Gemini Pro API를 사용하여 수집된 모든 뉴스를 한 번에 종합 분석"""
+    """Gemini Pro API를 사용하여 수집된 모든 뉴스의 의미를 심층 분석하여 마크다운 리포트 생성"""
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         return "⚠️ GEMINI_API_KEY가 설정되지 않아 분석할 수 없습니다."
@@ -38,15 +38,21 @@ def analyze_all_news(news_list):
     try:
         client = genai.Client(api_key=api_key)
         
-        prompt = "다음은 최근 1시간 동안 수집된 미국 주요 뉴스(종합, 정치, 경제)의 기사 제목들입니다:\n\n"
+        prompt = "다음은 최근 1시간 동안 수집된 미국 주요 뉴스(종합, 정치, 경제)입니다.\n\n"
         for i, news in enumerate(news_list, 1):
-            prompt += f"{i}. [{news['topic']}] {news['title']}\n"
+            prompt += f"{i}. [{news['topic']}] {news['title']} (링크: {news['link']})\n"
             
-        prompt += "\n위 뉴스 제목들을 종합적으로 고려하여, 현재 미국의 핵심적인 정치/경제/사회적 흐름과 이것이 가지는 의미를 한국어로 3~4줄 이내로 깊이 있게 분석해 줘."
+        prompt += """
+당신은 미국의 정치, 경제, 사회 동향을 날카롭게 짚어내는 수석 애널리스트입니다.
+위 뉴스 기사들을 종합적으로 분석하여, 단순히 사실이나 기사 제목을 나열하는 것을 넘어서 **"현재 미국의 가장 중요한 흐름과 그것이 앞으로 미칠 파장(의미)"**에 집중해 심층 리포트를 작성해 주세요.
+단순히 하단에 링크 목록을 따로 나열하지 말고, 분석 내용의 문맥 속에 자연스럽게 관련 기사 내용을 녹여내며 하이퍼링크 형식으로 출처를 달아주세요.
+독자가 이 리포트 하나만 읽고도 지금 미국의 큰 그림을 이해할 수 있도록 통찰력 있고 전문적인 어조(한국어)로 작성해 주세요.
+출력 형식은 마크다운으로 깔끔하게 정리해 주세요.
+"""
         
-        # 3.1 Pro 모델 사용 (하루 50회 제한 내에서 사용 가능하도록 1시간에 1번만 일괄 호출)
+        # 3.1 Pro는 구글 AI 스튜디오 API 버전 등의 문제로 404가 발생했으므로, 가장 안정적이고 뛰어난 2.5 Pro 사용
         response = client.models.generate_content(
-            model='gemini-3.1-pro',
+            model='gemini-2.5-pro',
             contents=prompt,
         )
         return response.text.strip()
@@ -60,46 +66,35 @@ def generate_markdown():
     date_str = now.strftime("%Y-%m-%d")
     time_str = now.strftime("%H:00")
     
-    md_content = f"# 🗞️ {date_str} {time_str} 미국 실시간 뉴스 및 종합 분석 (Pro)\n\n"
-    md_content += f"> {time_str} 기준 최근 1시간 동안의 미국 주요 뉴스를 수집하여 Gemini Pro 모델로 심층 분석한 리포트입니다.\n\n"
+    md_content = f"# 🗞️ {date_str} {time_str} 미국 실시간 심층 의미 분석 리포트\n\n"
+    md_content += f"> {time_str} 기준 최근 1시간 동안의 미국 주요 뉴스를 바탕으로, 겉으로 드러난 현상 너머의 핵심적인 흐름과 의미를 Gemini Pro 모델이 애널리스트의 관점에서 심층 평가했습니다.\n\n"
     
     all_news_for_analysis = []
-    sections_content = ""
     
     for topic, url in TOPICS.items():
         print(f"[{topic}] 뉴스 수집 중...")
-        # 분야별 뉴스 3개씩 수집
-        news_items, total_count = fetch_news(url, limit=3) 
+        news_items, _ = fetch_news(url, limit=3) 
         
-        sections_content += f"## {topic} (최근 1시간 총 {total_count}건)\n\n"
-        
-        if not news_items:
-            sections_content += "- 관련 최신 뉴스가 없습니다.\n\n"
-        else:
+        if news_items:
             for item in news_items:
-                all_news_for_analysis.append({"topic": topic, "title": item['title']})
-                sections_content += f"- [{item['title']}]({item['link']})\n"
+                all_news_for_analysis.append({
+                    "topic": topic, 
+                    "title": item['title'], 
+                    "link": item['link']
+                })
             
-            if total_count > len(news_items):
-                sections_content += f"\n> *외 {total_count - len(news_items)}개의 뉴스가 더 있습니다.*\n\n"
-            sections_content += "---\n\n"
-            
-    # 수집된 뉴스를 한 번에 Pro 모델로 분석
-    print("🧠 Gemini Pro 모델로 종합 분석 중...")
+    # 수집된 뉴스를 한 번에 Pro 모델로 분석하여 전체 내용을 구성
+    print("🧠 Gemini Pro 모델로 심층 의미 평가 진행 중...")
     if all_news_for_analysis:
         analysis_result = analyze_all_news(all_news_for_analysis)
-        md_content += "## 💡 Gemini Pro 심층 종합 분석\n\n"
-        md_content += f"> {analysis_result.replace(chr(10), chr(10) + '> ')}\n\n---\n\n" # 줄바꿈마다 > 추가하여 인용구 처리
+        md_content += f"{analysis_result}\n\n"
     else:
-        md_content += "## 💡 분석 알림\n\n수집된 뉴스가 없어 분석을 생략합니다.\n\n---\n\n"
+        md_content += "## 💡 분석 알림\n\n최근 1시간 동안 수집된 주요 뉴스가 없어 분석을 생략합니다.\n\n"
         
-    # 각 분야별 뉴스 목록 추가
-    md_content += sections_content
-            
     return md_content, date_str, time_str.replace(":", "")
 
 if __name__ == "__main__":
-    print("📰 미국 실시간 뉴스 및 분석을 가져오는 중입니다...")
+    print("📰 미국 실시간 뉴스 및 심층 분석을 가져오는 중입니다...")
     report_content, date_str, time_str = generate_markdown()
     
     os.makedirs("reports/us_news", exist_ok=True)
