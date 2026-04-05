@@ -1,9 +1,6 @@
 name: Hourly US News Report Automation
 
 on:
-  schedule:
-    # 매일 한국 시간 기준 오전 8시, 오후 8시에 자동 실행 (UTC 기준 23:00, 11:00)
-    - cron: '0 11,23 * * *'
   workflow_dispatch: # 직접 버튼을 눌러 수동으로 실행하고 싶을 때 사용
 
 jobs:
